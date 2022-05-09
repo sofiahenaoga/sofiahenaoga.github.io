@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 213.1 53.3" style="enable-background:new 0 0 213.1 53.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#003D66;}
+	.st1{fill:#FFB81C;}
+	.st2{font-family:'Candara';}
+	.st3{font-size:2.7851px;}
+	.st4{fill:#6CACE4;}
+	.st5{fill:#0072CE;}
+	.st6{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M194.4,48H19.7c-6.6,0-12-5.4-12-12V15c0-6.6,5.4-12,12-12h174.7c6.6,0,12,5.4,12,12V36
+	C206.4,42.6,201,48,194.4,48z"/>
+<g>
+	<g>
+		<circle class="st1" cx="34.7" cy="25.5" r="15.5"/>
+		<g>
+			<text transform="matrix(1 0 0 1 31.1839 29.9714)" class="st2 st3">ffb81c</text>
+			<text transform="matrix(1 0 0 1 23.6454 33.1457)" class="st2 st3">R: 255  G: 89% B: 28</text>
+		</g>
+	</g>
+	<g>
+		<circle class="st4" cx="82.9" cy="25.5" r="15.5"/>
+		<g>
+			<text transform="matrix(1 0 0 1 79.0965 30.3752)" class="st2 st3">6cace4</text>
+			<text transform="matrix(1 0 0 1 71.6644 33.1457)" class="st2 st3">R: 108  G: 172 B: 228</text>
+		</g>
+	</g>
+	<g>
+		<circle class="st5" cx="131.1" cy="25.5" r="15.5"/>
+		<g>
+			<text transform="matrix(1 0 0 1 126.9608 30.134)" class="st2 st3">0072ce</text>
+			<text transform="matrix(1 0 0 1 121.0916 33.1457)" class="st2 st3">R: 0  G: 114 B: 206</text>
+		</g>
+	</g>
+	<g>
+		<circle class="st6" cx="179.4" cy="25.5" r="15.5"/>
+		<g>
+			<text transform="matrix(1 0 0 1 176.9207 29.9938)" class="st2 st3">ffffff</text>
+			<text transform="matrix(1 0 0 1 167.9403 33.1457)" class="st2 st3">R: 255  G: 255 B: 255</text>
+		</g>
+	</g>
+</g>
+</svg>
